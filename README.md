@@ -1,1 +1,1 @@
-An exercise with React to create contact badges using  a contact literal object list.
+An exercise with React to create contact badges using a literal object list.
